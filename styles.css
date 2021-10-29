@@ -1,0 +1,20 @@
+html {
+  width: 100%;
+  font-family: "Exo", sans-serif;
+  text-align: center;
+  background-color: lavenderblush;
+}
+.imgOval {
+  border-radius: 25%;
+}
+.bottomScreen {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 2.5rem;
+}
+.headerStyle {
+  border-bottom: 5px black solid;
+  background-color: ghostwhite;
+  margin-bottom: 2.5%;
+}
